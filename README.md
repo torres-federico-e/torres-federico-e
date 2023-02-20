@@ -18,6 +18,11 @@ Here are some of the skills I bring to the table:
 - Data visualization with Python libraries like Matplotlib and Seaborn
 - Cloud platform knowledge: AWS
 
+![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
+
 ## Let's Connect! 🔗
 If you're interested in connecting with me feel free to reach out via [LinkedIn](https://www.linkedin.com/in/t-federico-e/) or email. 
 I'm always available.
