@@ -25,7 +25,7 @@ I'm always available.
 *Thanks for stopping by!*
 
 
-### :fire: Githug Stats
+## :fire: Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=torres-federico-e&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
