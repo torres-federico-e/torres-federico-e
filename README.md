@@ -18,7 +18,7 @@ Here are some of the skills I bring to the table:
 - Data visualization with Python libraries like Matplotlib and Seaborn
 - Cloud platform knowledge: AWS
 
-![AWS](https://img.shields.io/badge/amazonaws-232F3E?&logo=python&logoColor=white )
+![AWS](https://img.shields.io/badge/AWS-232F3E?&logo=amazonaws&logoColor=white )
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
