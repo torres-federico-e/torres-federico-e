@@ -19,7 +19,7 @@ Here are some of the skills I bring to the table:
 - Cloud platform knowledge: AWS
 
 ![AWS](https://img.shields.io/badge/aws-232D2C?&logo=amazonaws&logoColor=FFB71B)
-![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=EFD73B)
+![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=ffc43d)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
