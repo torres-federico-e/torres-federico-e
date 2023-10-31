@@ -1,8 +1,18 @@
 ## Hi there! 👋 📈
-I'm **@torres-federico-e** currently Ssr. Data engineer with a passion for all things data. I 've had prior experience with Data Science and machine learning, predictive modeling, and geo data processing. However, now I've switched to the data preparation, data and system architecture needed to scale businesses and prepare them in the world of data and analytics. I've worked with data projects from every angle possible building solutions for companies and products; from simple SQL analytics, to Pipeline alignment and consolidations, to maintaining and tuning production Churn Machine Learning models. Today I keep deep diving into what I feel is my niche, Data Engineering. I enjoy attention to detail, good work, and clean and clever visualizations. 
+I'm **@torres-federico-e** Data engineer with a passion for data projects. I've had a broad data experience, from working with Machine Learning sales and churn predictive modeling, to building geo-data processing pipelines for the Telco industry, to building adhoc analytic reports and Dashbords as part of Data Analytics teams.  
+
+Currently working with Cloud System Architecture for scalable data systems and pocesses.
+
+
+## Experience
+Data engineering work, specially with python and data pipeline development for Cloud projects ,data reconciliation, cleaning and preparation:
+- Cloud Data Engineer at Salesforce; AWS systems, processes and pipelines design.
+- Data scientist/Data Pipeline engineer; Telecommunications (Telefonica-Movistar).
+- Data Analytics Team; report and BI dashboard building (Buenos Aires Government)s. 
 
 ## What I Do ✏️
-As a Data engineer I have the most experience in designing scalable data pipelines that enable efficient and reliable data processing, both for normal volumes and using Big Data technologies. I have worked with Telecommunications industry and . I have experience working with some important data technologies including **Python, PySpark, Hive SQL, and Hadoop**. I've been also working with AWS Cloud lately.
+Scalable data pipeline design for efficient and reliable data processing. Big Data processing. Cloud data pipeline and system configuration. Experience working with data processing in **Python, PySpark, Hive SQL**. 
+I've been also working with AWS Cloud lately.
 
 ## Projects 📝
 Currently diving into personal development projects, some open source collaborations to contribute to the community and hone my skills.
