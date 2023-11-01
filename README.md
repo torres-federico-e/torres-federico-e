@@ -1,7 +1,9 @@
 ## Hi there! 👋 📈
-I'm **@torres-federico-e** Data engineer with a passion for data projects. I've had a broad experience working with data and data systems, from working with Machine Learning Sales and Churn Models , to building Geo-data processing pipelines for the Telco industry, to building custom analytic reports and Dashbords as part of Data Analytics teams.  
+I'm **@torres-federico-e** Data engineer with a passion for data projects, now working with AWS Cloud System Architecture in order to build more scalable data systems and processes for businesses.  
 
-Now working with AWS Cloud System Architecture in order to build more scalable data systems and processes for businesses.
+I've had a broad experience working with different data products and data systems, from working with Machine Learning Sales and Churn Models , to building Geo-data processing pipelines for the Telco industry, to building custom analytic reports and Dashbords as part of Data Analytics teams.  
+
+
 
 
 ## Experience
